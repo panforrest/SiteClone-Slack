@@ -4,6 +4,15 @@
 
   var turbo = Turbo({site_id: '59ad89f7e6317e0011a24131'})
 
+  turbo.currentUser(function(err, data){
+  	if(err){
+  	  console.log('Current User Error: '+err.message)
+      return
+  	}
+
+  	console.log('Current User: '+JSON.stringify(data))
+  })
+
   $('#btn-sign-up').click(function(event){
   	event.preventDefault()
 
