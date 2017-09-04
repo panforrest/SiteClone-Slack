@@ -11,6 +11,7 @@
   	}
 
   	console.log('Current User: '+JSON.stringify(data))
+  	$('#greeting').html('HELLO! '+data.user.email)
   })
 
   $('#btn-sign-up').click(function(event){
