@@ -32,19 +32,19 @@ input[type=search]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-web
 input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}
 fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}
 legend{border:0;padding:0}
-@font-face{font-family:Slack-Averta;font-style:normal;font-weight:400;src:local('â˜º'),url(/436da/marketing/fonts/averta/averta-regular.woff2) format('woff2'),url(/436da/marketing/fonts/averta/averta-regular.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
-@font-face{font-family:Slack-Averta;font-style:normal;font-weight:300;src:local('â˜º'),url(/436da/marketing/fonts/averta/averta-light.woff2) format('woff2'),url(/436da/marketing/fonts/averta/averta-light.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
-@font-face{font-family:Slack-Averta;font-style:normal;font-weight:700;src:local('â˜º'),url(/436da/marketing/fonts/averta/averta-bold.woff2) format('woff2'),url(/436da/marketing/fonts/averta/averta-bold.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
-@font-face{font-family:Slack-Averta;font-style:normal;font-weight:900;src:local('â˜º'),url(/436da/marketing/fonts/averta/averta-black.woff2) format('woff2'),url(/436da/marketing/fonts/averta/averta-black.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
-@font-face{font-family:Slack-Averta;font-style:italic;font-weight:400;src:local('â˜º'),url(/436da/marketing/fonts/averta/averta-regular-italic.woff2) format('woff2'),url(/436da/marketing/fonts/averta/averta-regular-italic.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
-@font-face{font-family:Slack-Tiempos;font-style:normal;font-weight:400;src:local('â˜º'),url(/436da/marketing/fonts/tiempos-headline/tiempos-headline-regular.woff2) format('woff2'),url(/436da/marketing/fonts/tiempos-headline/tiempos-headline-regular.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
-@font-face{font-family:Slack-Tiempos;font-style:italic;font-weight:400;src:local('â˜º'),url(/436da/marketing/fonts/tiempos-text/tiempos-text-regular-italic.woff2) format('woff2'),url(/436da/marketing/fonts/tiempos-text/tiempos-text-regular-italic.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
-@font-face{font-family:Slack-Tiempos;font-style:normal;font-weight:500;src:local('â˜º'),url(/436da/marketing/fonts/tiempos-headline/tiempos-headline-semibold.woff2) format('woff2'),url(/436da/marketing/fonts/tiempos-headline/tiempos-headline-semibold.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
-@font-face{font-family:Slack-Tiempos;font-style:italic;font-weight:500;src:local('â˜º'),url(/436da/marketing/fonts/tiempos-text/tiempos-text-semibold-italic.woff2) format('woff2'),url(/436da/marketing/fonts/tiempos-text/tiempos-text-semibold-italic.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
-@font-face{font-family:Slack-Tiempos;font-style:normal;font-weight:700;src:local('â˜º'),url(/436da/marketing/fonts/tiempos-headline/tiempos-headline-bold.woff2) format('woff2'),url(/436da/marketing/fonts/tiempos-headline/tiempos-headline-bold.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
-@font-face{font-family:Slack-Noto;font-style:normal;font-weight:400;src:local('â˜º'),url(/c41f9/marketing/fonts/notosans/notosans-regular.woff2) format('woff2'),url(/c41f9/marketing/fonts/notosans/notosans-regular.woff) format('woff')}
-@font-face{font-family:Slack-Noto;font-style:normal;font-weight:500;src:local('â˜º'),url(/c41f9/marketing/fonts/notosans/notosans-medium.woff2) format('woff2'),url(/c41f9/marketing/fonts/notosans/notosans-medium.woff) format('woff')}
-@font-face{font-family:Slack-Noto;font-style:normal;font-weight:700;src:local('â˜º'),url(/c41f9/marketing/fonts/notosans/notosans-bold.woff2) format('woff2'),url(/c41f9/marketing/fonts/notosans/notosans-bold.woff) format('woff')}
+@font-face{font-family:Slack-Averta;font-style:normal;font-weight:400;src:local('â˜º'),url(https://a.slack-edge.com/436da/marketing/fonts/averta/averta-regular.woff2) format('woff2'),url(https://a.slack-edge.com/436da/marketing/fonts/averta/averta-regular.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
+@font-face{font-family:Slack-Averta;font-style:normal;font-weight:300;src:local('â˜º'),url(https://a.slack-edge.com/436da/marketing/fonts/averta/averta-light.woff2) format('woff2'),url(https://a.slack-edge.com/436da/marketing/fonts/averta/averta-light.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
+@font-face{font-family:Slack-Averta;font-style:normal;font-weight:700;src:local('â˜º'),url(https://a.slack-edge.com/436da/marketing/fonts/averta/averta-bold.woff2) format('woff2'),url(https://a.slack-edge.com/436da/marketing/fonts/averta/averta-bold.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
+@font-face{font-family:Slack-Averta;font-style:normal;font-weight:900;src:local('â˜º'),url(https://a.slack-edge.com/436da/marketing/fonts/averta/averta-black.woff2) format('woff2'),url(https://a.slack-edge.com/436da/marketing/fonts/averta/averta-black.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
+@font-face{font-family:Slack-Averta;font-style:italic;font-weight:400;src:local('â˜º'),url(https://a.slack-edge.com/436da/marketing/fonts/averta/averta-regular-italic.woff2) format('woff2'),url(https://a.slack-edge.com/436da/marketing/fonts/averta/averta-regular-italic.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
+@font-face{font-family:Slack-Tiempos;font-style:normal;font-weight:400;src:local('â˜º'),url(https://a.slack-edge.com/436da/marketing/fonts/tiempos-headline/tiempos-headline-regular.woff2) format('woff2'),url(https://a.slack-edge.com/436da/marketing/fonts/tiempos-headline/tiempos-headline-regular.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
+@font-face{font-family:Slack-Tiempos;font-style:italic;font-weight:400;src:local('â˜º'),url(https://a.slack-edge.com/436da/marketing/fonts/tiempos-text/tiempos-text-regular-italic.woff2) format('woff2'),url(https://a.slack-edge.com/436da/marketing/fonts/tiempos-text/tiempos-text-regular-italic.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
+@font-face{font-family:Slack-Tiempos;font-style:normal;font-weight:500;src:local('â˜º'),url(https://a.slack-edge.com/436da/marketing/fonts/tiempos-headline/tiempos-headline-semibold.woff2) format('woff2'),url(https://a.slack-edge.com/436da/marketing/fonts/tiempos-headline/tiempos-headline-semibold.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
+@font-face{font-family:Slack-Tiempos;font-style:italic;font-weight:500;src:local('â˜º'),url(https://a.slack-edge.com/436da/marketing/fonts/tiempos-text/tiempos-text-semibold-italic.woff2) format('woff2'),url(https://a.slack-edge.com/436da/marketing/fonts/tiempos-text/tiempos-text-semibold-italic.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
+@font-face{font-family:Slack-Tiempos;font-style:normal;font-weight:700;src:local('â˜º'),url(https://a.slack-edge.com/436da/marketing/fonts/tiempos-headline/tiempos-headline-bold.woff2) format('woff2'),url(https://a.slack-edge.com/436da/marketing/fonts/tiempos-headline/tiempos-headline-bold.woff) format('woff');unicode-range:U+0000-F8FE,U+F900-FFFF}
+@font-face{font-family:Slack-Noto;font-style:normal;font-weight:400;src:local('â˜º'),url(https://a.slack-edge.com/c41f9/marketing/fonts/notosans/notosans-regular.woff2) format('woff2'),url(https://a.slack-edge.com/c41f9/marketing/fonts/notosans/notosans-regular.woff) format('woff')}
+@font-face{font-family:Slack-Noto;font-style:normal;font-weight:500;src:local('â˜º'),url(https://a.slack-edge.com/c41f9/marketing/fonts/notosans/notosans-medium.woff2) format('woff2'),url(https://a.slack-edge.com/c41f9/marketing/fonts/notosans/notosans-medium.woff) format('woff')}
+@font-face{font-family:Slack-Noto;font-style:normal;font-weight:700;src:local('â˜º'),url(https://a.slack-edge.com/c41f9/marketing/fonts/notosans/notosans-bold.woff2) format('woff2'),url(https://a.slack-edge.com/c41f9/marketing/fonts/notosans/notosans-bold.woff) format('woff')}
 @viewport{width:device-width}
 *,::after,::before{box-sizing:inherit}
 blockquote,figure{margin:0;padding:0}
@@ -850,7 +850,7 @@ a.c-button,a.c-button:active,a.c-button:focus,a.c-button:hover{border-bottom:0}
 }
 .c-form__input:active,.c-form__input:focus,.c-input:active,.c-input:focus{outline:0;border:1px solid #3F46AD}
 .c-form__input--small.v--larger,.c-form__input.v--larger,.c-input--small.v--larger,.c-input.v--larger{padding:23px 1.5rem;width:100%;max-width:450px}
-.c-form__input.v--phone,.c-input.v--phone{background-image:url(/a425/marketing/img/icons/icon_cell_phone.svg);background-size:1rem 1rem;background-repeat:no-repeat;background-position:1rem;background-position-y:center;padding-left:3rem}
+.c-form__input.v--phone,.c-input.v--phone{background-image:url(https://a.slack-edge.com/a425/marketing/img/icons/icon_cell_phone.svg);background-size:1rem 1rem;background-repeat:no-repeat;background-position:1rem;background-position-y:center;padding-left:3rem}
 .c-cta--signup{overflow:visible;width:100%}
 .c-cta--signup__headline{font-family:Slack-Tiempos,"Times New Roman",Georgia,serif;font-weight:500;line-height:1.45;font-size:1.25rem;margin:0;color:#323648}
 [lang=ja-JP] .c-cta--signup__headline{font-family:Slack-Noto,Slack-Averta,appleLogo,sans-serif}
@@ -893,7 +893,7 @@ textarea.c-form__input{outline:0;width:100%;resize:none;min-height:10ch}
 }
 .c-select select{background:#FFF;box-shadow:inset 0 0 0 1px #EBEBEB;border:none;border-radius:4px;width:100%;color:#323648;-webkit-appearance:none;-moz-appearance:none;appearance:none;padding:1.15rem 1rem}
 .c-select select:active,.c-select select:focus{outline:0;box-shadow:inset 0 0 0 1px #3F46AD}
-.c-select:after{display:block;position:absolute;right:1rem;top:2px;content:'';background-image:url(/a425/marketing/img/icons/icon_dropdown.svg);width:1rem;height:calc(100% - 4px);background-size:1rem 1rem;background-repeat:no-repeat;background-position-y:center;pointer-events:none}
+.c-select:after{display:block;position:absolute;right:1rem;top:2px;content:'';background-image:url(https://a.slack-edge.com/a425/marketing/img/icons/icon_dropdown.svg);width:1rem;height:calc(100% - 4px);background-size:1rem 1rem;background-repeat:no-repeat;background-position-y:center;pointer-events:none}
 .c-form{display:flex;flex-direction:column;margin-top:0;margin-bottom:0;max-width:100%}
 .c-form.v--vertical .c-form__container,.c-form.v--vertical--spaced .c-form__container{flex-direction:column}
 .c-form.v--vertical--spaced .c-form__input{margin-bottom:.5rem}
@@ -914,7 +914,7 @@ textarea.c-form__input{outline:0;width:100%;resize:none;min-height:10ch}
 .c-form .has-error .c-form__input,.c-form .has-error .c-form__label{border-color:#FC5D2A}
 .c-form .has-pending .c-form__input,.c-form .has-pending .c-form__label{border-color:#EEB523}
 .c-form .has-success .c-form__input,.c-form .has-success .c-form__label{border-color:#789820}
-.c-form .has-success.v--icon:before{content:"";display:block;height:1rem;width:1rem;margin-right:.5rem;margin-left:-1.5rem;background:url(/5ced7/marketing/img/icons/icon_checkmark.svg) center center no-repeat;background-size:contain;top:1.25rem;position:absolute;right:0}
+.c-form .has-success.v--icon:before{content:"";display:block;height:1rem;width:1rem;margin-right:.5rem;margin-left:-1.5rem;background:url(https://a.slack-edge.com/5ced7/marketing/img/icons/icon_checkmark.svg) center center no-repeat;background-size:contain;top:1.25rem;position:absolute;right:0}
 @media screen and (min-width:0px) and (max-width:767px){.c-form__container{flex-wrap:wrap}
 .c-form__input,.c-form__input.v--larger{max-width:100%}
 }
@@ -925,11 +925,11 @@ textarea.c-form__input{outline:0;width:100%;resize:none;min-height:10ch}
 }
 @media screen and (min-width:64rem){.c-form__notice{font-size:.875rem}
 }
-.c-form__notice:before{display:block;position:absolute;left:1rem;top:0;content:'';background-image:url(/88c74/marketing/img/icons/icon_validation_neutral.svg);width:1rem;height:100%;background-size:1rem 1rem;background-repeat:no-repeat;background-position-y:center}
+.c-form__notice:before{display:block;position:absolute;left:1rem;top:0;content:'';background-image:url(https://a.slack-edge.com/88c74/marketing/img/icons/icon_validation_neutral.svg);width:1rem;height:100%;background-size:1rem 1rem;background-repeat:no-repeat;background-position-y:center}
 .c-form__notice.is-error{border-left-color:#FC5D2A}
-.c-form__notice.is-error:before{background-image:url(/88c74/marketing/img/icons/icon_validation_fail.svg)}
+.c-form__notice.is-error:before{background-image:url(https://a.slack-edge.com/88c74/marketing/img/icons/icon_validation_fail.svg)}
 .c-form__notice.is-success{border-left-color:#789820}
-.c-form__notice.is-success:before{background-image:url(/88c74/marketing/img/icons/icon_validation_success.svg)}
+.c-form__notice.is-success:before{background-image:url(https://a.slack-edge.com/88c74/marketing/img/icons/icon_validation_success.svg)}
 .c-form__notice.is-hidden{display:none}
 .c-form__notice:focus{outline:0}
 .c-form__feedback.is-error{color:#FC5D2A}
@@ -1058,8 +1058,8 @@ textarea.c-form__input{outline:0;width:100%;resize:none;min-height:10ch}
 }
 .c-accordion__row:last-child{border-bottom:1px solid #EBEBEB}
 .c-accordion__row__question{cursor:pointer;position:relative;font-weight:700;color:#323648;text-align:left;padding:2rem 0;padding-right:3rem;margin-bottom:0;width:100%}
-.c-accordion__row__question:after{display:block;position:absolute;right:0;top:2rem;content:'';background-image:url(/49ff5/marketing/img/icons/icon_chevron_black.svg);width:24px;height:24px;background-size:24px 24px;background-repeat:no-repeat;transition:transform 420ms cubic-bezier(.165,.84,.44,1)}
-.c-accordion__row__question.v--show:after{transform:rotate(180deg);background-image:url(/49ff5/marketing/img/icons/icon_chevron_black.svg)}
+.c-accordion__row__question:after{display:block;position:absolute;right:0;top:2rem;content:'';background-image:url(https://a.slack-edge.com/49ff5/marketing/img/icons/icon_chevron_black.svg);width:24px;height:24px;background-size:24px 24px;background-repeat:no-repeat;transition:transform 420ms cubic-bezier(.165,.84,.44,1)}
+.c-accordion__row__question.v--show:after{transform:rotate(180deg);background-image:url(https://a.slack-edge.com/49ff5/marketing/img/icons/icon_chevron_black.svg)}
 .c-accordion__row__answer ul{margin-left:1.5rem}
 .c-accordion__row__answer ul li{margin-bottom:1rem}
 .c-accordion__row__question+.c-accordion__row__answer{display:none}
@@ -1180,13 +1180,13 @@ textarea.c-form__input{outline:0;width:100%;resize:none;min-height:10ch}
 @media screen and (min-width:48rem){.c-feature-grid.v--checkmark .c-feature-grid__item,.c-feature-grid.v--checkmark-after .c-feature-grid__item{padding:1rem;padding-bottom:0}
 }
 .c-feature-grid.v--checkmark .c-feature-grid__item{padding-left:5rem;margin-bottom:0}
-.c-feature-grid.v--checkmark .c-feature-grid__item:before{display:block;position:absolute;width:20px;height:20px;background-image:url(/5ced7/marketing/img/icons/icon_checkmark.svg);background-repeat:no-repeat;background-size:20px 20px;content:'';top:.6rem;left:1.5rem}
+.c-feature-grid.v--checkmark .c-feature-grid__item:before{display:block;position:absolute;width:20px;height:20px;background-image:url(https://a.slack-edge.com/5ced7/marketing/img/icons/icon_checkmark.svg);background-repeat:no-repeat;background-size:20px 20px;content:'';top:.6rem;left:1.5rem}
 @media screen and (min-width:48rem){.c-feature-grid.v--checkmark .c-feature-grid__item{margin-bottom:1rem}
 .c-feature-grid.v--checkmark .c-feature-grid__item:before{top:1.1rem}
 }
 .c-feature-grid.v--checkmark-after .c-feature-grid__item{padding-right:5rem}
-.c-feature-grid.v--checkmark-after .c-feature-grid__item:after{display:block;position:absolute;width:20px;height:20px;background-image:url(/5ced7/marketing/img/icons/icon_checkmark.svg);background-repeat:no-repeat;background-size:20px 20px;content:'';top:.6rem;right:1.5rem}
-@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){.c-feature-grid.v--checkmark .c-feature-grid__item:before,.c-feature-grid.v--checkmark-after .c-feature-grid__item:after{background-image:url(/5ced7/marketing/img/icons/icon_checkmark.svg)}
+.c-feature-grid.v--checkmark-after .c-feature-grid__item:after{display:block;position:absolute;width:20px;height:20px;background-image:url(https://a.slack-edge.com/5ced7/marketing/img/icons/icon_checkmark.svg);background-repeat:no-repeat;background-size:20px 20px;content:'';top:.6rem;right:1.5rem}
+@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){.c-feature-grid.v--checkmark .c-feature-grid__item:before,.c-feature-grid.v--checkmark-after .c-feature-grid__item:after{background-image:url(https://a.slack-edge.com/5ced7/marketing/img/icons/icon_checkmark.svg)}
 }
 @media screen and (min-width:48rem){.c-feature-grid.v--checkmark-after .c-feature-grid__item:after{top:1.1rem}
 }
@@ -1499,11 +1499,11 @@ textarea.c-form__input{outline:0;width:100%;resize:none;min-height:10ch}
 }
 @media screen and (min-width:84.875rem){.c-nav--sidebar__mobileheader{padding:0}
 }
-.c-nav--sidebar__mobileheader:after{display:block;position:absolute;right:2rem;top:0;content:'';background-image:url(/5ced7/marketing/img/icons/icon_chevron.svg);width:24px;height:70px;background-size:24px 24px;background-repeat:no-repeat;background-position-y:center;transition:transform .1s ease}
+.c-nav--sidebar__mobileheader:after{display:block;position:absolute;right:2rem;top:0;content:'';background-image:url(https://a.slack-edge.com/5ced7/marketing/img/icons/icon_chevron.svg);width:24px;height:70px;background-size:24px 24px;background-repeat:no-repeat;background-position-y:center;transition:transform .1s ease}
 .c-nav--sidebar__mobileheader.is-selected:after{transform:rotate(-180deg);transition:transform .1s ease}
 .c-nav--sidebar__mobileheader:first-child{border-top:1px solid #EBEBEB}
 .c-nav--sidebar__mobileheader.is-selected.v--main{padding-left:calc(24px + 3rem)}
-.c-nav--sidebar__mobileheader.is-selected.v--main:after{background-image:url(/5ced7/marketing/img/icons/icon_chevron.svg);transform:rotate(90deg);right:inherit;left:2rem}
+.c-nav--sidebar__mobileheader.is-selected.v--main:after{background-image:url(https://a.slack-edge.com/5ced7/marketing/img/icons/icon_chevron.svg);transform:rotate(90deg);right:inherit;left:2rem}
 .c-nav--sidebar__mobileheader .expanded-text{display:none}
 .c-nav--sidebar__mobileheader.is-selected .expanded-text{display:block;text-overflow:ellipsis;white-space:nowrap;overflow-x:hidden}
 .c-nav--sidebar__mobileheader.is-selected .collapsed-text{display:none}
@@ -1550,9 +1550,9 @@ textarea.c-form__input{outline:0;width:100%;resize:none;min-height:10ch}
 .c-nav__cta::before{margin-right:1rem}
 .c-nav__cta--workspace{bottom:5rem;color:#FFF}
 .c-nav__cta--download{background-color:#FFF;color:#3F46AD}
-.c-nav__cta--download::before{content:url("data:image/svg+xml;utf8,<svg width='21' height='21' viewBox='0 0 21 21' xmlns='http://www.w3.org/2000/svg'><path d='M9.222.21v12.437l-3.37-3.363-1.206 1.204 4.223 4.215 1.205 1.205 1.207-1.205 4.222-4.215-1.206-1.204-3.37 3.363V.21H9.222zM0 12.878v7.447h20.15v-7.447h-1.706v5.744H1.707v-5.743H0z' fill='#2C32B7' fill-rule='evenodd'/></svg>");vertical-align:bottom;margin-bottom:-4px}
+.c-nav__cta--download::before{content:url(https://a.slack-edge.com"data:image/svg+xml;utf8,<svg width='21' height='21' viewBox='0 0 21 21' xmlns='http://www.w3.org/2000/svg'><path d='M9.222.21v12.437l-3.37-3.363-1.206 1.204 4.223 4.215 1.205 1.205 1.207-1.205 4.222-4.215-1.206-1.204-3.37 3.363V.21H9.222zM0 12.878v7.447h20.15v-7.447h-1.706v5.744H1.707v-5.743H0z' fill='#2C32B7' fill-rule='evenodd'/></svg>");vertical-align:bottom;margin-bottom:-4px}
 .c-nav__cta--create{background-color:#3F46AD;color:#FFF}
-.c-nav__cta--create::before{content:url("data:image/svg+xml;utf8,<svg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'><path d='M18.93 8.93h-7.86V1.07C11.07.487 10.587 0 10 0c-.586 0-1.07.486-1.07 1.07v7.86H1.07C.487 8.93 0 9.413 0 10c0 .586.486 1.07 1.07 1.07h7.86v7.86c0 .584.484 1.07 1.07 1.07.586 0 1.07-.486 1.07-1.07v-7.86h7.86c.584 0 1.07-.484 1.07-1.07 0-.586-.486-1.07-1.07-1.07z' fill='#FFF' fill-rule='evenodd'/></svg>");vertical-align:bottom;margin-bottom:-4px}
+.c-nav__cta--create::before{content:url(https://a.slack-edge.com"data:image/svg+xml;utf8,<svg width='20' height='20' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'><path d='M18.93 8.93h-7.86V1.07C11.07.487 10.587 0 10 0c-.586 0-1.07.486-1.07 1.07v7.86H1.07C.487 8.93 0 9.413 0 10c0 .586.486 1.07 1.07 1.07h7.86v7.86c0 .584.484 1.07 1.07 1.07.586 0 1.07-.486 1.07-1.07v-7.86h7.86c.584 0 1.07-.484 1.07-1.07 0-.586-.486-1.07-1.07-1.07z' fill='#FFF' fill-rule='evenodd'/></svg>");vertical-align:bottom;margin-bottom:-4px}
 .c-nav__cta--create:hover{color:#FFF}
 .c-nav__mobile{transform:translateX(100%);position:fixed;overflow:hidden;top:0;left:0;bottom:0;right:0;flex-direction:column;padding:0 2rem 4rem}
 @media screen and (min-width:67.8125rem){.c-nav__mobile{display:none}
@@ -1560,8 +1560,8 @@ textarea.c-form__input{outline:0;width:100%;resize:none;min-height:10ch}
 .c-nav__mobile a{border-bottom:none}
 .c-nav__mobile.is-hidden{display:none;transform:translateX(100%)}
 .c-nav__mobile.is-open{transform:translateX(0)}
-.c-nav__mobile.v--primary{z-index:1000;background-image:url(/f8d70/marketing/img/accent/bg_halftone_black_30p.png);background-size:1300px 700px;background-repeat:repeat;background-color:#3F46AD}
-@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){.c-nav__mobile.v--primary{background-image:url(/f8d70/marketing/img/accent/bg_halftone_black_30p@2x.png)}
+.c-nav__mobile.v--primary{z-index:1000;background-image:url(https://a.slack-edge.com/f8d70/marketing/img/accent/bg_halftone_black_30p.png);background-size:1300px 700px;background-repeat:repeat;background-color:#3F46AD}
+@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){.c-nav__mobile.v--primary{background-image:url(https://a.slack-edge.com/f8d70/marketing/img/accent/bg_halftone_black_30p@2x.png)}
 }
 .c-nav__mobile.v--secondary{z-index:1001;background-color:#FFF}
 .c-nav__mobile .c-nav--primary__listitem a:hover{color:#FFF}
