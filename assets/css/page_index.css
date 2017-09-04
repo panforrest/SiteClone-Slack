@@ -1,0 +1,22 @@
+.page-home.page-home{padding-top:7rem;padding-bottom:0}
+@media screen and (min-width:64rem){.page-home.page-home{padding-top:10rem;padding-bottom:4rem}
+}
+.c-announcement-banner+.page-home.page-home{padding-top:2.9rem}
+.page-home.page-home .o-hero__content{justify-content:space-around;text-align:left}
+.page-home.page-home .o-hero__header__headline{font-family:Slack-Tiempos,"Times New Roman",Georgia,serif;font-weight:500;line-height:1.05;font-size:2.2rem;margin-bottom:2rem;margin-top:0;text-transform:capitalize}
+[lang=ja-JP] .page-home.page-home .o-hero__header__headline{font-family:Slack-Noto,Slack-Averta,appleLogo,sans-serif}
+@media screen and (min-width:25rem){.page-home.page-home .o-hero__header__headline{font-size:calc(2.2rem + (41.599999999999994 * (100vw - 400px)/ 624))}
+}
+.page-home.page-home .bg-home{display:flex;justify-content:center;height:300px}
+@media screen and (min-width:64rem){.c-announcement-banner+.page-home.page-home{padding-top:4rem}
+.page-home.page-home .o-hero__header__headline{font-size:4.8rem}
+.page-home.page-home .bg-home{height:500px}
+}
+@media screen and (min-width:85rem){.page-home.page-home{padding-bottom:4rem}
+.page-home.page-home .o-hero__header{padding-right:1.5rem}
+.page-home.page-home .bg-home{height:600px;margin-left:-5rem;margin-right:-5rem}
+}
+.page-home.page-home .bg-home img{align-self:center;height:300px}
+@media screen and (min-width:64rem){.page-home.page-home .bg-home img{height:auto}
+}
+.page-home.page-home .o-hero__header__cta{text-transform:initial}

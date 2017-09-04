@@ -15,7 +15,8 @@ var path = require('path')
 gulp.task('css', function(){
     return gulp.src(
             [
-                './assets/css/bootstrap.css',
+                './assets/css/rollup-marketing.css',
+                './assets/css/page_index.css',
             ]
         )
         .pipe(sourcemaps.init())
